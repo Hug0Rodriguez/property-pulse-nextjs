@@ -1,7 +1,8 @@
 import "@/assets/styles/globals.css";
 
 const MainLayout = ({ children }) => {
-    return ( <html>
+    return (
+    <html>
         <body>
             <main>
                 {children}
